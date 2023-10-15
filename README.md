@@ -10,7 +10,7 @@ to install dependencies.
 
 ## Setting API_KEY
 
-You need to set your Weatherbit API Key to `API_KEY` variable in `consts.ts` file in the root directory.
+You need to set your Weatherbit API Key to `API_KEY` variable in `consts.ts` file in the `root/src/` directory.
 
 ### Starting The Application
 
