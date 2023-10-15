@@ -1,0 +1,29 @@
+.input-wrapper {
+    min-width: 400px;
+    width: 30%;
+    height: 60px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+input {
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    width: 100%;
+    margin-left: 50px;
+    font-size: large;
+}
+
+input:focus {
+    outline: none;
+}
+
+.iconButton {
+    border: none;
+    background-color: transparent;
+    padding: 20px;
+    cursor: pointer;
+}
